@@ -1,0 +1,20 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 28 Apr 2025 14:58:11 at https://www.aaliacollection.com/collection/kinwani-house +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.aaliacollection.com/collection/kinwani-house -O1 "C:\My Web Sites\KinwaniHouse" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:59:45	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://www.aaliacollection.com/collection/kinwani-house)
+15:07:17	Warning: 	Found for https://www.aaliacollection.com/collection/schema.org/
+15:07:17	Warning: 	File has moved from https://www.aaliacollection.com/collection/schema.org/ to /
+15:10:09	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.aaliacollection.com/collection/kinwani-house/stay/t (from https://www.aaliacollection.com/collection/kinwani-house/stay/maharajs-suite)
+15:10:09	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.aaliacollection.com/collection/aalia-villas-anjuna-goa/stay/t (from https://www.aaliacollection.com/collection/aalia-villas-anjuna-goa/stay/casa-anya)
+15:10:11	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.aaliacollection.com/collection/kinwani-house/stay/t (from https://www.aaliacollection.com/collection/kinwani-house/stay/maharajs-suite)
+15:10:11	Warning: 	Retry after error 500 () at link https://www.aaliacollection.com/collection/aalia-villas-anjuna-goa/stay/t (from https://www.aaliacollection.com/collection/aalia-villas-anjuna-goa/stay/casa-anya)
+15:10:12	Error: 	"Internal Server Error" (500) after 2 retries at link https://www.aaliacollection.com/collection/kinwani-house/stay/t (from https://www.aaliacollection.com/collection/kinwani-house/stay/maharajs-suite)
+15:10:12	Error: 	"" (500) after 2 retries at link https://www.aaliacollection.com/collection/aalia-villas-anjuna-goa/stay/t (from https://www.aaliacollection.com/collection/aalia-villas-anjuna-goa/stay/casa-anya)
+
+HTTrack Website Copier/3.49-2 mirror complete in 12 minutes 1 seconds : 521 links scanned, 511 files written (294532913 bytes overall) [293240520 bytes received at 406713 bytes/sec], 2646068 bytes transferred using HTTP compression in 46 files, ratio 29%, 10.7 requests per connection
+(3 errors, 6 warnings, 0 messages)
